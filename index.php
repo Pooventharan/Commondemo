@@ -11,7 +11,7 @@
 
     <style>
         fieldset{
-           margin-right: 800px;
+           margin-right: 80px;
            padding: 30px;
            background-color: #EE867C;
            width: 50%;
