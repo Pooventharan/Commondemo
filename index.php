@@ -29,7 +29,7 @@
             
        }
        .btn{
-            padding: 4px;
+            padding: 9px;
             background-color: grey;
             border-radius: 10px;
             float: right;
