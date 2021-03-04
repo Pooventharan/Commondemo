@@ -19,7 +19,7 @@
         }
 
        input{
-            margin: 20px;
+            margin: 40px;
             border-radius: 2px;
             padding: 0px 60px 0px 5px;
         }
