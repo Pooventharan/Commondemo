@@ -36,6 +36,10 @@
                     <li><a href="">Achievement</a></li>
                     <li><a href="">Game Know</a></li>
                     <li><a href="">Player Search</a></li>
+                    <li><a href="">Game</a></li>
+                    <li><a href="">menu</a></li>
+                    <li><a href="">Game</a></li>
+                    <li><a href="">mm</a></li>
                 </ul>
             </nav><br>
 </body>
