@@ -1,5 +1,6 @@
 <html lang="en">
 <head>
+    <title></title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form</title>
@@ -19,7 +20,7 @@
         }
 
        input{
-            margin: 40px;
+            margin: 50px;
             border-radius: 2px;
             padding: 0px 60px 0px 5px;
         }
