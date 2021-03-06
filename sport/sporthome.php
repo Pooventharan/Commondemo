@@ -13,7 +13,7 @@
         background-color:rgb(205, 50, 166);
     }
     a {
-        padding: 16px;
+        padding: 20px;
     }
     a:hover {
          color:tomato;

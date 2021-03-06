@@ -15,7 +15,7 @@
            margin-right: 80px;
            padding: 30px;
            background-color: #EE867C;
-           width: 50%;
+           width: 70%;
            
         }
 
@@ -30,7 +30,7 @@
             
        }
        .btn{
-            padding: 9px;
+            padding: 90px;
             background-color: grey;
             border-radius: 10px;
             float: right;
