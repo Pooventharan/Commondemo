@@ -47,7 +47,7 @@
                 <input type="hidden" name="id">
                 <label for="name">Name :</label>
                 <input type="text" name="name" id="name" placeholder="Name" required><br>
-                <label for="mail">Email :</label>
+                <label for="mail">Email ADDRESS :</label>
                 <input type="text" name="mail" id="mail"placeholder="Email" required><br>
                 <label for="mobile">Mobile :</label>
                 <input type="text" name="mobile" id="mobile" placeholder="Mobile No." required><br>
